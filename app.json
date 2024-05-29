@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "repository": "https://github.com/Tamilupdates/Movie-Provider-bot",
+    "repository": "https://github.com/Tamilupdates/Movie-Provider-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
