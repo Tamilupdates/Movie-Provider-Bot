@@ -1,7 +1,3 @@
-<div align="center" style="border: 2px solid #e94560; border-radius: 6px; overflow: hidden;">
-  <img src="https://yt3.googleusercontent.com/p9g9i5N55WgCn1mFFjl8iut4BOd0O4RRjn7WB_Silj9JmJ42tE-yhdZ0oR_7m-F4kGHT22Br=s176-c-k-c0x00ffffff-no-rj" alt="Bot" width="150" style="border-radius: 10px;">
-</div>
-
 <h1 align="center">
   <a href="https://github.com/Tamilupdates/Movie-Provider-bot">THE MOVIE PROVIDER BOT</a>
 </h1>
@@ -80,23 +76,4 @@
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 
-## Thanks to 
- - Thanks To [Blank](https://t.me/ultroidxTeam) for customising & fixed this amazing [Repo](https://github.com/sahildesai07/TheMovieProviderBot).
- - Thanks To [HP](https://t.me/DeltedFromEarth) for customising this amazing [Repo](https://github.com/HarshalPurohitEdits/TheMovieProviderBot).
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
- - Thanks To [Joelkb](https://github.com/Joelkb) for their awesome repo [DqFileDonor](https://github.com/Joelkb/DQ-the-file-donor)
-
-## Note 🏷️
- 
-* [![Contact Admin](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/ultroidxTeam)
-
-[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
-
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
-Fork the repo and edit as per your needs.
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+  
