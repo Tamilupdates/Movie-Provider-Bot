@@ -61,9 +61,6 @@
 - [x] Get List of Premium Users
 - [x] Restart the bot
 
-## Tutorial 
-* <b> Tutorial </b> [upload on Telegram](https://t.me/Ultroid_Official/323)
-
 ## Variables
 
 ### Required Variables
