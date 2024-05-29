@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Tamilupdates/Movie-Provider-bot">THE MOVIE PROVIDER BOT</a>
+  <a href="https://github.com/Tamilupdates/Movie-Provider-Bot">THE MOVIE PROVIDER BOT</a>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+Ultroid-Official-Repo;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
